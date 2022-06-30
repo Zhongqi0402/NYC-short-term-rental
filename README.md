@@ -562,7 +562,7 @@ This will drop rows in the dataset that are not in the proper geolocation.
 
 Then commit your change, make a new release (for example ``1.0.1``) and retry (of course you need to use 
 ``-v 1.0.1`` when calling mlflow this time). Now the run should succeed and voit la', 
-you have trained your new model on the new
+you have trained your new model on the new data.
 
 ## License
 
