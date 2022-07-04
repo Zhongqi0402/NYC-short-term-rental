@@ -54,7 +54,7 @@ modeling -> random_forest -> n_estimators to 10 and etl->min_price to 50:
 
 ### Exploratory Data Analysis (EDA)
 
-## Data cleaning
+### Data cleaning
 
 ### Data testing
 
